@@ -1,6 +1,6 @@
 Calculator::Application.routes.draw do
 
-  root :to => 'calculations#calculator_display'
+  root 'calculations#calculator_display'
 
   get '/calculator_display', controller: 'calculations', action: 'calculator_display', as: 'calc_display'
 
