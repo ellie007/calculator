@@ -1,0 +1,217 @@
+.set_1 {
+  border-top: 2px solid #999999;
+  border-left:2px solid #999999;
+  border-right:2px solid #999999;
+  padding-top: 10px;
+  width: 200px;
+  text-align: center;
+  background: orange;
+}
+
+.set_2 {
+  border-left:2px solid #999999;
+  border-right:2px solid #999999;
+  padding-top: 10px;
+  text-align: center;
+  width: 200px;
+  background: orange;
+}
+
+.set_3 {
+  border-left:2px solid #999999;
+  border-right:2px solid #999999;
+  padding-top: 10px;
+  width: 200px;
+  background: orange;
+  text-align: center;
+}
+
+.set_4 {
+  border-left:2px solid #999999;
+  border-right:2px solid #999999;
+  padding-top: 10px;
+  width: 200px;
+  background: orange;
+  text-align: center;
+}
+
+.set_5 {
+  border-left:2px solid #999999;
+  border-right:2px solid #999999;
+  border-bottom: 2px solid #999999;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+  background: orange;
+  text-align: center;
+}
+
+.text_box{
+  -webkit-appearance: none;
+  border-radius: 13px;
+  height: 40px;
+  width: 180px;
+  border: solid #666 1px;
+  font-size: 20px;
+}
+
+#button0 {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button1 {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button2 {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button3 {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button4 {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button5 {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button6 {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button7 {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button8 {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button9 {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button_add {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button- {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button_equals{
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#buttonx {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#buttonc {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
+#button_divide {
+  -webkit-appearance: none;
+  height:40px;
+  width:40px;
+  background:white;
+  border-radius: 10px;
+  font-size: 14px;
+  border: solid #666 1px;
+}
+
