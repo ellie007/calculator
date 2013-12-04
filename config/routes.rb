@@ -1,5 +1,7 @@
 Calculator::Application.routes.draw do
 
+  root :to => 'calculations#calculator_display'
+
   get '/calculator_display', controller: 'calculations', action: 'calculator_display', as: 'calc_display'
 
   # The priority is based upon order of creation: first created -> highest priority.
