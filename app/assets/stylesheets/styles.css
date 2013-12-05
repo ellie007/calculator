@@ -102,12 +102,7 @@
       height:200px;
       width:200px;
       font-size: 100px;
-      position: relative;
-      text-align: center;
     }
 
-    .button_con {
-      position: absolute;
-    }
   }
 
