@@ -94,7 +94,7 @@
 
     .text_box{
       height: 180px;
-      width: 735px;
+      width: 730px;
       font-size: 100px;
     }
 
@@ -102,6 +102,12 @@
       height:200px;
       width:200px;
       font-size: 100px;
+      position: relative;
+      text-align: center;
+    }
+
+    .button_con {
+      position: absolute;
     }
   }
 
