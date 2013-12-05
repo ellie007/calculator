@@ -218,27 +218,27 @@
 
 @media only screen and (max-device-width: 480px) {
     .set_1 {
-      height:100%;
-      width: 100%;
+      height: auto;
+      width: auto;
     }
 
     .set_2 {
-      height:100%;
-      width: 100%;
+      height:auto;
+      width: auto;
     }
 
     .set_3 {
-      height:100%;
-      width: 100%;
+      height:auto;
+      width: auto;
     }
 
     .set_4 {
-      height:100%;
-      width: 100%;
+      height:auto;
+      width: auto;
     }
 
     .set_5 {
-      height:100%;
-      width: 100%;
+      height:auto;
+      width: auto;
     }
   }
