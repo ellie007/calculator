@@ -73,28 +73,28 @@
     }
 
     .set_2 {
-      height: 270px;
+      height: 266px;
       width: auto;
     }
 
     .set_3 {
-      height: 270px;
+      height: 266px;
       width: auto;
     }
 
     .set_4 {
-      height: 270px;
+      height: 266px;
       width: auto;
     }
 
     .set_5 {
-      height: 270px;
+      height: 266px;
       width: auto;
     }
 
     .text_box{
-      height: 120px;
-      width: 600px;
+      height: 200px;
+      width: 100%;
       font-size: 60px;
       padding: auto
     }
