@@ -55,157 +55,7 @@
   font-size: 20px;
 }
 
-#button0 {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button1 {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button2 {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button3 {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button4 {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button5 {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button6 {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button7 {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button8 {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button9 {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button_add {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button- {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button_equals{
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#buttonx {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#buttonc {
-  -webkit-appearance: none;
-  height:40px;
-  width:40px;
-  background:white;
-  border-radius: 10px;
-  font-size: 14px;
-  border: solid #666 1px;
-}
-
-#button_divide {
+.button {
   -webkit-appearance: none;
   height:40px;
   width:40px;
@@ -216,13 +66,6 @@
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
-
-  #button6 {
-    margin: auto;
-  height:200px;
-  width:200px;
-  font-size: 100px;
-}
 
     .set_1 {
       height: 270px;
@@ -248,6 +91,19 @@
       height: 270px;
       width: auto;
     }
-}
 
+    .text_box{
+      height: 120px;
+      width: 540px;
+      font-size: 60px;
+    }
+
+    .button {
+      margin: auto;
+      height:200px;
+      width:200px;
+      font-size: 100px;
+      text-align: center;
+    }
+  }
 
