@@ -94,9 +94,8 @@
 
     .text_box{
       height: 200px;
-      width: 700px;
-      font-size: 60px;
-      padding: auto
+      width: 740px;
+      font-size: 100px;
     }
 
     .button {
