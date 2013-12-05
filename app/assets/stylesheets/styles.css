@@ -103,6 +103,7 @@
       width:200px;
       font-size: 100px;
       text-align: center;
+      display: block;
     }
 
   }
