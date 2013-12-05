@@ -93,18 +93,15 @@
     }
 
     .text_box{
-      height: 200px;
-      width: 740px;
+      height: 180px;
+      width: 735px;
       font-size: 100px;
     }
 
     .button {
-
       height:200px;
       width:200px;
       font-size: 100px;
-
-
     }
   }
 
