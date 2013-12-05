@@ -217,6 +217,14 @@
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
 
+  #button6 {
+
+  height:100px;
+  width:100px;
+  font-size: 14px;
+
+}
+
     .set_1 {
       height: 270px;
       width: auto;
