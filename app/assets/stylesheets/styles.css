@@ -215,8 +215,7 @@
   border: solid #666 1px;
 }
 
-
-@media only screen and (max-device-width: 640px) and (max-device-height: 1136px)  {
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
     .set_1 {
       height: auto;
       width: 100%;
@@ -241,4 +240,6 @@
       height:auto;
       width: 100%;
     }
-  }
+}
+
+
