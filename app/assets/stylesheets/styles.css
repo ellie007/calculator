@@ -217,27 +217,27 @@
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
     .set_1 {
-      height: auto;
+      height: 20%;
       width: 100%;
     }
 
     .set_2 {
-      height:auto;
+      height:20%;
       width: 100%;
     }
 
     .set_3 {
-      height:auto;
+      height:20%;
       width: 100%;
     }
 
     .set_4 {
-      height:auto;
+      height:20%;
       width: 100%;
     }
 
     .set_5 {
-      height:auto;
+      height:20%;
       width: 100%;
     }
 }
