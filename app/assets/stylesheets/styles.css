@@ -216,29 +216,34 @@
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+
+    .main_container {
+      height: 100%
+    };
+
     .set_1 {
-      height: auto;
-      width: 50%;
+      height: 20%;
+      width: auto;
     }
 
     .set_2 {
- height: auto;
-      width: 50%;
+      height: 20%;
+      width: auto;
     }
 
     .set_3 {
- height: auto;
-      width: 50%;
+      height: 20%;
+      width: auto;
     }
 
     .set_4 {
- height: auto;
-      width: 50%;
+      height: 20%;
+      width: auto;
     }
 
     .set_5 {
- height: auto;
-      width: 50%;
+      height: 20%;
+      width: auto;
     }
 }
 
